@@ -69,7 +69,6 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 ### Program Chairs
 
 * Dingwen Tao, _Washington State University_
-* Sheng Di, _Argonne National Laboratory_
 * Xin Liang, _Missouri S&T_
 
 ### Web Chair
@@ -85,13 +84,13 @@ Jiannan Tian, _Washington State University_
 * Jon Calhoun, _Clemson University_
 * Jieyang Chen, _Oak Ridge National Laboratory_
 * Yimin Chen, _Lawrence Berkeley National Laboratory_
+* Sheng Di, _Argonne National Laboratory_
 * Soumya Dutta, _Los Alamos National Laboratory_
 * Pascal Grosset, _Los Alamos National Laboratory_
 * Hanqi Guo, _Argonne National Laboratory_
 * Muhammad Asif Khan, _Qatar University_
 * Beiyu Lin, _University of Texas Rio Grande Valley_
 * Shaomeng Li, _National Center for Atmospheric Research_
-* Xin Liang, _Oak Ridge National Laboratory_
 * Habib Rehman, _Khalifa University_
 * Tao Lu, _Marvell Technology Group_
 * Panruo Wu, _University of Houston_
