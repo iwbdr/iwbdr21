@@ -31,15 +31,21 @@ The focus areas for this workshop include, but are not limited to:
   - Domain-specific methods, e.g., structured/unstructured meshes, particles, tensors
   - Accuracy-guarantee data reduction methods
   - Optimal design of data reduction methods
-- Metrics and infrastructures to evaluate reduction methods and assess fidelity of reduced data
+- Data reduction challenges and solutions in observational and experimental environments
+- Mathematical methods with robustly estimable or provable error bounds for both data and quantities of interest
+- Metrics and infrastructures to evaluate reduction methods and assess quality/fidelity of reduced data
+- Uncertainty quantification for reduction methods/models/representations
 - Benchmark applications and datasets for big data reduction 
 - Data analysis and visualization techniques leveraging reduced data
 - Characterizing the impact of data reduction techniques on applications
 - Hardware-software co-design of data reduction
 - Trade-offs between accuracy and performance on emerging computing hardware and platforms
+- Resource-constrained and/or time-constrained data reduction methods
 - Software, tools, and programming models for managing reduced data
 - Runtime systems and supports for data reduction
-- Data reduction challenges and solutions in observational and experimental environments
+- Development of composable data reduction pipelines/workflows
+- Automation of data reduction in scientific workflows
+- Data reduction challenges and solutions in observational and experimental environments 
 
 ### Proceedings
 
@@ -89,7 +95,7 @@ Jiannan Tian, _Washington State University_
 * Pascal Grosset, _Los Alamos National Laboratory_
 * Hanqi Guo, _Argonne National Laboratory_
 * Muhammad Asif Khan, _Qatar University_
-* Beiyu Lin, _University of Texas Rio Grande Valley_
+* Beiyu Lin, _University of Nevada, Las Vegas_
 * Shaomeng Li, _National Center for Atmospheric Research_
 * Habib Rehman, _Khalifa University_
 * Tao Lu, _Marvell Technology Group_
