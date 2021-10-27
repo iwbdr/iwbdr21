@@ -76,6 +76,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 * Dingwen Tao, _Washington State University_
 * Xin Liang, _Missouri S&T_
+* Sheng Di, _Argonne National Laboratory_
 
 ### Web Chair
 
@@ -90,8 +91,8 @@ Jiannan Tian, _Washington State University_
 * Jon Calhoun, _Clemson University_
 * Jieyang Chen, _Oak Ridge National Laboratory_
 * Yimin Chen, _Lawrence Berkeley National Laboratory_
-* Sheng Di, _Argonne National Laboratory_
 * Soumya Dutta, _Los Alamos National Laboratory_
+* William Godoy, _Oak Ridge National Laboratory_
 * Pascal Grosset, _Los Alamos National Laboratory_
 * Hanqi Guo, _Argonne National Laboratory_
 * Muhammad Asif Khan, _Qatar University_
