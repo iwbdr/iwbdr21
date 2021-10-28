@@ -55,7 +55,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 * Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication.
 * Submissions must be in PDF format.
-* Submissions are required to be within **4 pages** for short paper or **8 pages** for full paper (including references).
+* Submissions are required to be within **6 pages** for short paper or **10 pages** for full paper (including references).
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format.
 * Submissions are NOT double-blind.
 * Only web-based submissions are allowed.
@@ -65,7 +65,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Important Dates
 
-* Paper Submission: November 5, 2021
+* Paper Submission: ~~November 5, 2021~~ November 8, 2021
 * Paper Acceptance Notification: November 12, 2021
 * Camera-ready Deadline: November 19, 2021
 * Workshop: December 16, 2021
