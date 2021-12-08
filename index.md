@@ -136,7 +136,7 @@ Timezone: Eastern Time (ET/EST), UTC-5
 |                    | Sikder Tahsin Al-Amin and Carlos Ordonez                                                                            |
 | 4:45 -- 5:05 pm ET | **S15203**: Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques            |
 |                    | Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello               |
-| 5:05 -- 5:10 pm ET | **Closing Remarks**                                                                                                 |  |
+| 5:05 -- 5:10 pm ET | **Closing Remarks**                                                                                                 |
 
 # Participation
 TBD
