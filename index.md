@@ -68,7 +68,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 * Paper Submission: ~~November 5, 2021~~ November 8, 2021
 * Paper Acceptance Notification: November 12, 2021
 * Camera-ready Deadline: November 19, 2021
-* Workshop: December 16, 2021
+* Workshop: December 17, 2021
 
 # Organizers
 
