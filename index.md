@@ -117,8 +117,8 @@ Timezone: Eastern Time (ET/EST), UTC-5
 | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | 1:00 -- 1:05 pm ET | Opening Remarks and Welcome                                                                                         |
 |                    | Dingwen Tao, Sheng  Di, Xin Liang                                                                                   |
-| 1:05 -- 1:50 pm ET | **Keynote Speech** (TBD)                                                                                            |
-|                    | TBD                                                                                                                 |
+| 1:05 -- 1:50 pm ET | **Keynote Speech**: High Ratio, Speed and Accuracy Customizable Scientific Data Compression with SZ                                                                                            |
+|                    | Franck Cappello, Argonne National Laboratory                                                                                                                 |
 | 1:50 -- 2:15 pm ET | **S15202**: Efficient loading of reduced data ensembles produced at ORNL SNS/HFIR neutron time-of-flight facilities |
 |                    | William Godoy, Andrei Savici, Steven Hahn, and  Peter Peterson                                                      |
 | 2:15 -- 2:40 pm ET | **BigD302**: LCTL: Lightweight Compression Template Library                                                         |
