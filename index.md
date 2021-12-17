@@ -139,4 +139,4 @@ Timezone: Eastern Time (ET/EST), UTC-5
 | 5:05 -- 5:10 pm ET | **Closing Remarks**                                                                                                 |
 
 # Participation
-TBD
+Participants can find the Zoom link to join the workshop through Underline (https://underline.io/events/222/sessions?eventSessionId=9588). 
